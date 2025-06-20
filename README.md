@@ -8,7 +8,6 @@
 - **AI Chatbot (Gemini API):**  
   - Integrated Gemini API to simulate an empathetic chatbot.  
   - Asks users questions to understand their mental state.  
-  - Suggests helpful resources like YouTube videos, articles, and wellness tips based on responses.
 - **Community Q&A Forum:**  
   - Users can post their thoughts or concerns anonymously.  
   - Others can reply with advice or shared experiences, building a support-driven environment.
