@@ -31,16 +31,18 @@
 ## Preview
 
 - **Home Page**
-
-  ![Home Preview](https://github.com/user-attachments/assets/your_home_image_id)
+![Screenshot 2025-06-20 210417](https://github.com/user-attachments/assets/9df1b319-6a42-4956-910d-092fe9bc8c83)
 
 - **Chatbot Interface**
-
-  ![Chatbot Preview](https://github.com/user-attachments/assets/your_chatbot_image_id)
+![Screenshot 2025-06-20 210648](https://github.com/user-attachments/assets/73aa13e9-3ac8-4c89-b891-f35b39ae661f)
+![Screenshot 2025-06-20 210700](https://github.com/user-attachments/assets/8ba95d10-d3df-44fd-8df9-16fb68532d84)
 
 - **Community Section**
+![Screenshot 2025-06-20 210720](https://github.com/user-attachments/assets/32fdabaa-4eb3-43b0-9129-8e10f77cb1dc)
 
-  ![Community View](https://github.com/user-attachments/assets/your_community_image_id)
+- **Tools**
+![Screenshot 2025-06-20 210732](https://github.com/user-attachments/assets/d3983906-6967-47d6-aa44-3fc0e428d7cc)
+
 
 ## Live Demo
 
