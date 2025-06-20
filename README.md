@@ -53,9 +53,25 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/mindfulconnect.git
-   cd mindfulconnect
+   git clone https://github.com/your-username/expense_tracker.git
+   cd expense_tracker
 
+2. **Install Dependency**
+
+    ```bash
+    npm install
+
+3. **Configure .env**
+
+    ```bash
+    SESSION_SECRET=your_secret_key
+    SUPABASE_URL=your_supabase_url
+    SUPABASE_KEY=your_supabase_key
+
+4. **Run the Application**
+
+    ```bash
+    npm start
 
 ### Notes:
 - Be sure to replace placeholder values like `your_home_image_id`, `your-google-gemini-api-key`, and `your-username` with your actual data.
