@@ -45,7 +45,7 @@
 
 ## Live Demo
 
-👉 Try MindfulConnect here: [https://mindfull-connect.onrender.com](https://mindfull-connect.onrender.com)
+👉 Try MindfulConnect here: [Railway](https://mindfull-connect-production.up.railway.app/) | [Render](https://mindfull-connect.onrender.com)
 
 ## How to Run Locally
 
